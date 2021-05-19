@@ -4,4 +4,15 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:2em;
+}
+
+.title {
+    text-align:center;
+    font: arial;
+    font-size: 12px;
+    margin-left: 1em;
 }

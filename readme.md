@@ -48,10 +48,8 @@ Na de feedback ben ik aan de slag gegaan met mijn huidige concept en daarna bego
 
 ### Week-3
 In week 3 liep ik erg vast en heb ik gevraagd wat ik moest doen. Danny heeft mij toen goed geholpen met op een rijtje te krijgen wat ik eigenlijk wilde maken en daar een lijstje van te maken. Daarnaast zou hij mij daarna helpen met het Feedback: Blokjes ook in 2d in het huis als achtergrond bijvoorbeeld. Willekeurige kleuren maken, met willekeurige posities. 
-
+Toen liep ik vast op dat ik een functie wilde aanroepen en dan pas een volgende functie laten afspelen. Hiervoor moest ik dan een nieuwe functie aanmaken zodat de eerste functie (house) niet meer zou bewegen. Ik heb het wel geprobeerd, maar het is mij uiteindelijk helaas niet meer gelukt om dit werkend te krijgen. Zie de link met waar ik mee bezig was: https://editor.p5js.org/Alishasars/sketches/NqGtphpt3. Toen heb ik besloten om verder te bouwen op de code waarmee Danny mij geholpen heeft en dat mijn eindopdracht te maken. 
 Vooral in de laatste week heb ik grote stappen kunnen maken met betrekking tot de code en ben ik best wel tevreden over het eindresultaat (met behulp van Danny). 
-
-
 
 ## Bronnenlijst
 
